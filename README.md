@@ -24,7 +24,7 @@ Cada música segue a estrutura abaixo:
 Você pode baixar o arquivo diretamente:
 
 ```bash
-curl -O https://raw.githubusercontent.com/seu-usuario/vocaloid-songs/main/songs.json
+curl -O https://github.com/yagosnascimento/vocaloid-utauloid-songs-db/blob/main/data.json
 ```
 
 Ou importar em seus projetos:
